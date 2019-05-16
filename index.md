@@ -10,7 +10,7 @@ page_sections:
   - link: "/"
     link_text: Kezdőlap
   - link: "#"
-    link_text: Features
+    link_text: Termékek
   - link: "#"
     link_text: Pricing
   - link: "#"
