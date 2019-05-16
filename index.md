@@ -11,7 +11,7 @@ page_sections:
     link_text: Kezdőlap
   - link: "#"
     link_text: Termékek
-  - link: "#"
+  - link: "/kapcsolat"
     link_text: Kapcsolat
   cta:
     url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
