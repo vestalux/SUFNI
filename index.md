@@ -12,8 +12,6 @@ page_sections:
   - link: "#"
     link_text: Termékek
   - link: "#"
-    link_text: Pricing
-  - link: "#"
     link_text: Kapcsolat
   cta:
     url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
